@@ -1,2 +1,11 @@
-# About my first project on GitHub
-This is my first project on GitHub and it showcases some of my base knowledge of HTML learnt from [YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA&ab_channel=DaveGray). 
+# Title
+
+## Description of each webpage
+
+### Index.html
+
+A testing page about randomn X generators. Taking inspiration in the website [random.org](https://www.random.org/) where all sorts of great knowlegde of randomness is portrayed.
+
+#### Colors
+
+[Color picker](https://color.adobe.com/da/create/color-wheel)

@@ -1,0 +1,59 @@
+:root {
+    --primary-color: #E69849;
+    --secondary-color: #E66149;
+    --tertiary-color: #49E6D8;
+    --contrast-color: #546664;
+    --background-color: #665D54;
+    --accent-color: #665654;
+    --text-color: #000000;
+    --text-shadow-color: #0000006e;
+    --links-color: #184272ec;
+    --border-color: #000000;
+  }
+
+
+html {
+    /* px means "pixels". The base font size is now 10 pixels high */
+    font-size: 10px;
+    /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+    font-family: "Inter", sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: var(--text-color);
+    text-shadow: 3px 3px 1px var(--text-shadow-color);
+    text-align: center;
+    font-size: 60px;
+  }
+
+
+p,
+li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+  }
+
+body {
+    width: 600px;
+    margin: 10rem auto;
+    background-color: var(--primary-color);
+    padding: 0 20px 20px 20px;
+    border: 5px solid var(--border-color);
+    border-radius: 5px;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+a {
+    color: var(--links-color);
+    text-decoration: none;
+}

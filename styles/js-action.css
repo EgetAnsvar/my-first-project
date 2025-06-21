@@ -1,0 +1,4 @@
+.taskDone {
+    color: var(--secondary-color);
+    text-decoration: line-through solid var(--text-color) 2px;
+  }
